@@ -1,5 +1,5 @@
 fastapi-offline==1.7.4
-fastapi==0.115.13
+fastapi==0.116.1
 flair==0.15.1
 https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.7.0/de_core_news_lg-3.7.0-py3-none-any.whl
 numpy==1.26.4
